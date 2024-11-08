@@ -1,25 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Lempek</h1>
 <h3 align="center">A passionate Full-Stack Developer from Brazil</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ivanlempek&label=Profile%20views&color=0e75b6&style=flat" alt="ivanlempek" />
-</p>
-
-- 💬 Ask me about **C#, .NET, Blazor, and SQL**
-
 - 📫 How to reach me **ivanlempek@hotmail.com**
-
-- ⚡ Fun fact: **I love exploring new technologies and solving complex challenges**
-
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ivanlempek-dev/" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <!-- Add other social media icons if desired -->
-</p>
 
 ---
 
