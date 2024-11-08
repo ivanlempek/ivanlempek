@@ -24,7 +24,7 @@
 ---
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
-<div style="display: flex; justify-content: space-around;align-items: center; flex-wrap: wrap; gap: 10px; padding: 10px;"> 
+<div style="display: flex; justify-content: space-around;"> 
   <p align="left"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer">
       <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" style="padding:10px;"/>
