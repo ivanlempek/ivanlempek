@@ -1,31 +1,29 @@
-<h1 align="center">Olá 👋, eu sou o Ivan Lempek</h1>
-<h3 align="center">Desenvolvedor Full-Stack apaixonado do Brasil</h3>
+<h1 align="center">Hi 👋, I'm Ivan Lempek</h1>
+<h3 align="center">A passionate Full-Stack Developer from Brazil</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ivanlempek&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="ivanlempek" />
+  <img src="https://komarev.com/ghpvc/?username=ivanlempek&label=Profile%20views&color=0e75b6&style=flat" alt="ivanlempek" />
 </p>
 
-- 🌱 Atualmente estou aprendendo **Blazor e Arquitetura de Microsserviços**
+- 💬 Ask me about **C#, .NET, Blazor, and SQL**
 
-- 💬 Pergunte-me sobre **C#, .NET, Angular e AWS**
+- 📫 How to reach me **ivanlempek@hotmail.com**
 
-- 📫 Como me encontrar: **ivanlempek@hotmail.com**
-
-- ⚡ Curiosidade: **Adoro explorar novas tecnologias e resolver desafios complexos**
+- ⚡ Fun fact: **I love exploring new technologies and solving complex challenges**
 
 ---
 
-<h3 align="left">🌐 Conecte-se comigo:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ivanlempek" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/ivanlempek-dev/" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <!-- Adicione outros ícones de redes sociais se desejar -->
+  <!-- Add other social media icons if desired -->
 </p>
 
 ---
 
-<h3 align="left">🛠️ Linguagens e Ferramentas:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
@@ -45,23 +43,13 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
   </a>
-  <!-- Adicione outras ferramentas e tecnologias que você domina -->
+  <!-- Add other tools and technologies you are proficient in -->
 </p>
 
 ---
 
-<h3 align="left">📊 Estatísticas do GitHub:</h3>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanlempek&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanlempek&layout=compact&langs_count=7&theme=dark"/>
-</p>
+<h3 align="left">🚀 Featured Projects:</h3>
 
----
+- [**Product Catalog Blazor**](https://github.com/ivanlempek/product-catalog-blazor): A web product catalog system developed with Blazor, implementing Clean Architecture, DDD, JWT authentication, and Redis caching.
 
-<h3 align="left">🚀 Projetos em Destaque:</h3>
-
-- [**Product Catalog Blazor**](https://github.com/ivanlempek/product-catalog-blazor): Sistema web para catálogo de produtos desenvolvido em Blazor com Clean Architecture, DDD, JWT e Redis.
-
-- <!-- Adicione outros projetos importantes com descrição e link -->
-
----
+<!-- Add other significant projects with descriptions and links -->
