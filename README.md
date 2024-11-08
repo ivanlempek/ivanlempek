@@ -110,8 +110,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
       </a>
     </td>
-    <!-- Você pode adicionar células vazias para completar a linha, se necessário -->
-    <td></td><td></td><td></td><td></td><td></td><td></td>
   </tr>
 </table>
 
