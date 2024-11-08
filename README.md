@@ -32,6 +32,11 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://dotnet.microsoft.com/pt-br/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" alt="blazor" width="40" height="40" />
+      </a>
+    </td>
+    <td align="center">
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40" />
       </a>
