@@ -93,16 +93,10 @@
   </tr>
 </table>
 
-<div style="display:flex; justfy-content: center;"> 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanlempek&show_icons=true&locale=en&layout=compact" alt="ivanlempek" />
-  </p>
-</div>
-
 ---
 
 <h3 align="left">🚀 Featured Projects:</h3>
 
-- [**Product Catalog Blazor**](https://github.com/ivanlempek/product-catalog-blazor): A web product catalog system developed with Blazor, implementing Clean Architecture, DDD, JWT authentication, and Redis caching.
+- [**Product Catalog Blazor**](https://github.com/ivanlempek/Product-Catalog-Project): A web product catalog system developed with Blazor, implementing Clean Architecture, DDD, JWT authentication, and Redis caching.
 
 <!-- Add other significant projects with descriptions and links -->
